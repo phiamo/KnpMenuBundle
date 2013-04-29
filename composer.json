@@ -26,10 +26,5 @@
         "psr-0": { "Knp\\Bundle\\MenuBundle": "" }
     },
     "target-dir": "Knp/Bundle/MenuBundle",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
-    },
     "minimum-stability": "dev"
 }
